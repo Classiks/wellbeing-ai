@@ -1,0 +1,8 @@
+private-google-drive-directory.txt
+data_old/
+09) animate.R
+.RData
+.Rhistory
+data/ngram_dependencies_adjectives.csv
+data/ngram_dependencies_adjectives_wide.csv
+data/ngram_dependencies_adjectives_wide_normalized.csv
