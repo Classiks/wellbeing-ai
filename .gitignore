@@ -6,3 +6,6 @@ data_old/
 data/ngram_dependencies_adjectives.csv
 data/ngram_dependencies_adjectives_wide.csv
 data/ngram_dependencies_adjectives_wide_normalized.csv
+images/decoder.png
+images/encoder.png
+images/model structure.pptx
