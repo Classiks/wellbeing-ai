@@ -1,3 +1,3 @@
 # wellbeing-ai
 
-test
+![graphical results]("./images/cluster_light.png")
