@@ -1,3 +1,3 @@
 # wellbeing-ai
 
-![graphical results]("./images/cluster_light.png")
+![graphical results](./images/cluster_light.png)
