@@ -38,7 +38,7 @@ Visual inspection clearly shows, that multiple <i>wellbeing-cluster</i> exist.
 ![graphical results](./images/cluster_light.png)
 
 ## Discussion
-As expected, wellbeing can depend on many different aspects of human experience. This makes is all the more important to discern, what influences ones own wellbeing. <br />
+As expected, wellbeing can depend on many different aspects of human experience. This makes it all the more important to discern, what influences ones own wellbeing. <br />
 One approach is monitoring and loggin ones behavior and tracking, what results in wellbeing and what does not. <br />
 A helpful tool is the folling app:<br />
 [Github](https://github.com/Classiks/wellbeing-app)<br />
