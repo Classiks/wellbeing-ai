@@ -6,7 +6,7 @@ One thing however is clear. Sources of Wellbeing differ from person to person. T
 
 ## Method
 ### Data
-Literature data from the past two centuries was retrieved from the [Google NGram Corpus](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html) (Michel et al., 2011). We used the most recent dataset (v3, subset English non-fiction).
+Literature data from the past two centuries was retrieved from the [Google NGram Corpus](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html) (Michel et al., 2011). Specifically, the most recent dataset (v3, subset English non-fiction) was used.
 
 #### Data collection
 In a first step, the top 1000 adjectives for the word <i>wellbeing</i> were extracted. In turn, description of these top 1000 adjectives were extracted from the corpus. The goal was to analyze which kind of wellbeings were described. <br />
