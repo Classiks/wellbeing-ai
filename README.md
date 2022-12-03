@@ -6,7 +6,7 @@ One thing however is clear. Sources of Wellbeing differ from person to person. T
 
 ## Method
 ### Data
-Data was retrieved from the [Google NGram Corpus](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html) (Michel et al., 2011). We used the most recent dataset (v3, subset English non-fiction).
+Literature data from the pst two centuries was retrieved from the [Google NGram Corpus](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html) (Michel et al., 2011). We used the most recent dataset (v3, subset English non-fiction).
 
 #### Data collection
 In a first step, the top 1000 adjectives for the word <i>wellbeing</i> were extracted. In turn, description of these top 1000 adjectives were extracted from the corpus. The goal was to analyze which kind of wellbeings were described. <br />
@@ -14,7 +14,7 @@ This resulted in a dataset containing 1000 adjectives used to describe wellbeing
 
 ### Analysis
 This data was fed into an autoencoder (Wang, 2014) aiming to reduce dimensionality to enable clustering.<br />
-For that, an data dimensionality was reduced to two dimensions (<i>encoded layer</i>). The model structure is provided in Figure 1. The model was fit on the full dataset (train-test-split; no validation data), as a best posisble explanation for data structure was the goal, not a generalizable model.
+Data dimensionality was reduced to two dimensions (<i>encoded layer</i>). The model structure is provided in Figure 1. The model was fit on the full dataset (train-test-split; no validation data), as a best posisble explanation for data structure was the goal, not a generalizable model.
 
 #### Figure 1
 ![model structure](./images/model_structure.png)
